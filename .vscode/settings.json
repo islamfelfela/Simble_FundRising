@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/felfela/py-Space/FundRise/my_env/bin/python3.6"
+}
